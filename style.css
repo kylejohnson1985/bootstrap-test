@@ -1,0 +1,10 @@
+/*CSS comment */
+
+.headerClass {
+    color: red;
+    border: thin solid #920000
+}
+
+.smallTopMargin {
+    margin-top: 50px;
+}
